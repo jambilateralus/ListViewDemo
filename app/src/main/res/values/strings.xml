@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">ListViewDemo</string>
+    <string name="test">Button clicked</string>
 </resources>
